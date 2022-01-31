@@ -15,7 +15,7 @@ layout: home
 4. اگر دیدید گوشی با **گارانتی دیجی‌سرویس** هست، بدون لحظه‌ای درنگ، کاملا از خرید بیخیال بشید و حتی سریعا صفحه رو ببندید!!!
 
 اینم تو سایت دیجی کالا یادتون نره:
-<img alt="digi-shoar" src="/assets/images/digi-shoar.png"/>
+<img border="1" alt="digi-shoar" src="/assets/images/digi-shoar.png"/>
 
 **و این نکته که چندین میلیون تومان پول گوشی دادی اما به دلیل اینکه هنوز تکلیف‌ش مشخص نیست،
 نمی‌تونی راحت برنامه‌ای روش نصب کنی و ازش استفاده کنی تا تکلیف‌ش مشخص بشه!!!**
@@ -29,9 +29,9 @@ layout: home
 - در «فعال‌سازی (رجیستر)» شما اون IMEI قانونی ثبتش شده رو برای فرد (شماره همراه) مشخصی ثبت می‌کنی <code>*7777*2#</code>
 
 <span>
-<img alt="hamta-esalat" src="/assets/images/hamta-esalat.png" style="width:500px; height:500px"/>
+<img border="1" alt="hamta-esalat" src="/assets/images/hamta-esalat.png" style="width:500px; height:500px"/>
 و
-<img alt="hamta-register" src="/assets/images/hamta-register.png" style="width:500px; height:500px"/>
+<img border="1" alt="hamta-register" src="/assets/images/hamta-register.png" style="width:500px; height:500px"/>
 </span>
 
 <br/>
@@ -43,7 +43,7 @@ layout: home
 با **گارانتی دیجی‌سرویس** خریداری کردم که عصر روز ۱شنبه ۳ بهمن ۱۴۰۰ به بنده تحویل شد.
 
 <a href="/assets/images/digi-factor.png" target="_blank">
-<img alt="factor" src="/assets/images/digi-factor.png" style="width:60%; height:60%"/>
+<img border="1" alt="factor" src="/assets/images/digi-factor.png" style="width:60%; height:60%"/>
 </a>
 
 _**نکته**: در فاکتور شماره IMEI گوشی ذکر شده است که بنده ۲ عدد اول (35) و ۳ عدد آخر (064) آنرا برای اثبات مراحل بعدی گذاشتم بماند!_ 
@@ -52,13 +52,13 @@ _**نکته**: در فاکتور شماره IMEI گوشی ذکر شده است �
 وقتی به مرحله رجسیتری رسیدم، دیدم ای داد بیداد گوشی فعال(رجیستر) نمیشه!!!
 
 <a href="/assets/images/hamta-site-error.png" target="_blank">
-<img alt="hamta" src="/assets/images/hamta-site-error.png"  style="width:40%; height:40%"/>
+<img border="1" alt="hamta" src="/assets/images/hamta-site-error.png"  style="width:40%; height:40%"/>
 </a>
 
 خوب حالا عکسی هم از خود گوشی  و کارت گارانتی‌ش داشته باشیم
 
 <a href="/assets/images/phone-hamta-error-guarantee.png" target="_blank">
-<img alt="hamta-guarantee" src="/assets/images/phone-hamta-error-guarantee.png"  style="width:40%; height:40%"/>
+<img border="1" alt="hamta-guarantee" src="/assets/images/phone-hamta-error-guarantee.png"  style="width:40%; height:40%"/>
 </a>
 
 <br/>
@@ -127,7 +127,7 @@ _**نکته**: در فاکتور شماره IMEI گوشی ذکر شده است �
 شد (شایدم سرکاری بود و نشد)، اما رد شد!
 
 <a href="/assets/images/digi-reject-return.png" target="_blank">
-<img alt="digi-reject-return" src="/assets/images/digi-reject-return.png" style="width:50%; height:50%"/>
+<img border="1" alt="digi-reject-return" src="/assets/images/digi-reject-return.png" style="width:50%; height:50%"/>
 </a>
 
 چرا؟ جوابش رو تو پیامک برام فرستادن:
@@ -155,7 +155,7 @@ _**نکته**: در فاکتور شماره IMEI گوشی ذکر شده است �
 این سرباز سردار کلی در مورد رجیستری توضیح داده و در انتها در مدح سردار چنین گفته:
 
 <a href="/assets/images/digi-propaganda01.png" target="_blank">
-<img alt="digi-propaganda" src="/assets/images/digi-propaganda01.png"/>
+<img border="1" alt="digi-propaganda" src="/assets/images/digi-propaganda01.png"/>
 </a>
 
 این پاراگراف آخر رو که خوندم از خوشحالی اشک تو چشمانم حلقه زد که چقدر این سرباز، من خسارت‌دیده رو درک کرده، اما سردارش خیلی بیشتر!
@@ -173,7 +173,7 @@ _**نکته**: در فاکتور شماره IMEI گوشی ذکر شده است �
 در بازار می‌فروخت. اینم بنابر خود حرف‌های سردار! چرا؟؟؟ چطوری؟؟؟
 
 <a href="/assets/images/digi-propaganda02.png" target="_blank">
-<img alt="digi propaganda" src="/assets/images/digi-propaganda02.png" style="width:60%; height:60%">
+<img border="1" alt="digi propaganda" src="/assets/images/digi-propaganda02.png" style="width:60%; height:60%">
 </a>
 
 
@@ -192,17 +192,17 @@ _**نکته**: در فاکتور شماره IMEI گوشی ذکر شده است �
 </li></ul>
 
 <a href="/assets/images/digi-comment01.png" target="_blank">
-<img alt="digi-comment01" src="/assets/images/digi-comment01.png" style="width:60%; height:60%"/>
+<img border="1" alt="digi-comment01" src="/assets/images/digi-comment01.png" style="width:60%; height:60%"/>
 </a>
 
 <a href="/assets/images/digi-comment02.png" target="_blank">
-<img alt="digi-comment02" src="/assets/images/digi-comment02.png" style="width:60%; height:60%"/>
+<img border="1" alt="digi-comment02" src="/assets/images/digi-comment02.png" style="width:60%; height:60%"/>
 </a>
 
 البته این قبلی (بالایی) کامنت خودم هست!
 
 <a href="/assets/images/digi-comment03.png" target="_blank">
-<img alt="digi-comment03" src="/assets/images/digi-comment03.png" style="width:60%; height:60%">
+<img border="1" alt="digi-comment03" src="/assets/images/digi-comment03.png" style="width:60%; height:60%">
 </a>
 
 <br/>
